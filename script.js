@@ -90,9 +90,3 @@ function enlarge(){
     $("#square").addClass("enlarged");
   }
 }
-
-
-//// Pop-up appear on click with delay ////
-$("#clickme").click(function(){
-    $("#window").fadeIn(300);
-  });
